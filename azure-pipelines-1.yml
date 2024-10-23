@@ -2,27 +2,27 @@ trigger:
 - main
 
 pool:
-  name: 'SelfHostedAgentPool'  # Use the self-hosted agent pool you created
+  name: 'Default'  # Use the self-hosted agent pool you created
+
 
 steps:
 - task: Docker@2
   displayName: 'Build and push Docker image to ACR'
   inputs:
     command: buildAndPush
-    repository: acr45058204.azurecr.io/aci-aspnetapp
+    repository: aci-aspnetapp--0000002.internal.nicewater-e9754c96.centralus.azurecontainerapps.io
     dockerfile: '**/Dockerfile'
-    containerRegistry: 'acr45058204'
     tags: |
       $(Build.BuildId)
       
 - task: AzureCLI@2
   displayName: 'Deploy to Azure Container Apps'
   inputs:
-    azureSubscription: 'fb9a3765-b2f3-4178-b897-c08b0c569b72'
+    azureSubscription: 'APPL-lod49735931(fb9a3765-b2f3-4178-b897-c08b0c569b72)'
     scriptType: 'bash'
     scriptLocation: 'inlineScript'
     inlineScript: |
       az containerapp update \
       --name aci-aspnetapp \
       --resource-group RG1 \
-      --image acr45058204.azurecr.io/aci-aspnetapp:$(Build.BuildId)
+      --image acr45058204.azurecr.io/aci-aspnetapp--0000002:$(Build.BuildId)
