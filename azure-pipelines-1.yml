@@ -18,7 +18,7 @@ steps:
 - task: AzureCLI@2
   displayName: 'Deploy to Azure Container Apps'
   inputs:
-    azureSubscription: '<your-azure-subscription>'
+    azureSubscription: 'fb9a3765-b2f3-4178-b897-c08b0c569b72'
     scriptType: 'bash'
     scriptLocation: 'inlineScript'
     inlineScript: |
