@@ -1,0 +1,193 @@
+[2024-10-23 04:17:19Z INFO AgentProcess] Agent package win-x64.
+[2024-10-23 04:17:19Z INFO AgentProcess] Running on Windows (X64).
+[2024-10-23 04:17:19Z INFO AgentProcess] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2024-10-23 04:17:19Z INFO AgentProcess] Version: 3.246.0
+[2024-10-23 04:17:19Z INFO AgentProcess] Commit: 59c8fe5f253ec6ff0c98d7250bd45096698b8736
+[2024-10-23 04:17:19Z INFO AgentProcess] Culture: en-IN
+[2024-10-23 04:17:19Z INFO AgentProcess] UI Culture: en-US
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO AgentProcess] Validating directory permissions for: 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO PowerShellExeUtil] Generation: '1'
+[2024-10-23 04:17:19Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\1\PowerShellEngine', value name 'PowerShellVersion': '2.0'
+[2024-10-23 04:17:19Z INFO PowerShellExeUtil] Unsupported version. Skipping.
+[2024-10-23 04:17:19Z INFO PowerShellExeUtil] Generation: '3'
+[2024-10-23 04:17:19Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\3\PowerShellEngine', value name 'PowerShellVersion': '5.1.22621.1'
+[2024-10-23 04:17:19Z INFO PowerShellExeUtil] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PowerShell\3\PowerShellEngine', value name 'ApplicationBase': 'C:\Windows\System32\WindowsPowerShell\v1.0'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\.NETFramework', value name 'InstallRoot': 'C:\Windows\Microsoft.NET\Framework64\'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'SOFTWARE\Microsoft\NET Framework Setup\NDP' contains sub keys:
+[2024-10-23 04:17:19Z INFO AgentProcess]  'CDF'
+[2024-10-23 04:17:19Z INFO AgentProcess]  'v4'
+[2024-10-23 04:17:19Z INFO AgentProcess]  'v4.0'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4', value name 'Version' is null.
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4', value name '' is null.
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'SOFTWARE\Microsoft\NET Framework Setup\NDP\v4' contains sub keys:
+[2024-10-23 04:17:19Z INFO AgentProcess]  'Client'
+[2024-10-23 04:17:19Z INFO AgentProcess]  'Full'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Version': '4.8.09032'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Install': '1'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'InstallPath': 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Client', value name 'Release': '533320'
+[2024-10-23 04:17:19Z INFO AgentProcess] Type is System.Int32
+[2024-10-23 04:17:19Z INFO AgentProcess] Interpreted version: 4.7.0
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Version': '4.8.09032'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Install': '1'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'InstallPath': 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\'
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4\Full', value name 'Release': '533320'
+[2024-10-23 04:17:19Z INFO AgentProcess] Type is System.Int32
+[2024-10-23 04:17:19Z INFO AgentProcess] Interpreted version: 4.7.0
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4.0', value name 'Version' is null.
+[2024-10-23 04:17:19Z INFO AgentProcess] Key name 'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v4.0', value name '': 'deprecated'
+[2024-10-23 04:17:19Z INFO AgentProcess] Found 2 versions:
+[2024-10-23 04:17:19Z INFO AgentProcess]  4.7.0
+[2024-10-23 04:17:19Z INFO AgentProcess]  4.7.0
+[2024-10-23 04:17:19Z INFO AgentProcess] Testing for min NET Framework version: '4.5'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Setting up value for origin: Remove.Password
+[2024-10-23 04:17:19Z INFO HostContext] Value is empty.
+[2024-10-23 04:17:19Z INFO HostContext] Setting up value for origin: Remove.Token
+[2024-10-23 04:17:19Z INFO HostContext] Value is empty.
+[2024-10-23 04:17:19Z INFO HostContext] Setting up value for origin: Remove.TenantId
+[2024-10-23 04:17:19Z INFO HostContext] Value is empty.
+[2024-10-23 04:17:19Z INFO HostContext] Setting up value for origin: Remove.ClientId
+[2024-10-23 04:17:19Z INFO HostContext] Value is empty.
+[2024-10-23 04:17:19Z INFO HostContext] Setting up value for origin: Remove.ClientSecret
+[2024-10-23 04:17:19Z INFO HostContext] Value is empty.
+[2024-10-23 04:17:19Z INFO CommandSettings] Remove {
+  "Auth": null,
+  "LaunchBrowser": false,
+  "Password": null,
+  "Token": null,
+  "Unattended": false,
+  "UserName": null,
+  "ClientId": null,
+  "TenantId": null,
+  "ClientSecret": null,
+  "Help": false,
+  "Version": false
+}
+[2024-10-23 04:17:19Z INFO AgentProcess] Arguments parsed
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'Proxy': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.proxy'
+[2024-10-23 04:17:19Z INFO VstsAgentWebProxy] No proxy setting found.
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'Certificates': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.certificates'
+[2024-10-23 04:17:19Z INFO AgentCertificateManager] No certificate setting found.
+[2024-10-23 04:17:19Z INFO Agent] ExecuteCommand
+[2024-10-23 04:17:19Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\Mohd Shahid\Desktop\.net\agent\bin\Agent.Listener.dll
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] binPath: C:\Users\Mohd Shahid\Desktop\.net\agent\bin
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] RootFolder: C:\Users\Mohd Shahid\Desktop\.net\agent
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'Agent': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.agent'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] ConfigFilePath: C:\Users\Mohd Shahid\Desktop\.net\agent\.agent
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.credentials'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] CredFilePath: C:\Users\Mohd Shahid\Desktop\.net\agent\.credentials
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'Service': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.service'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\Mohd Shahid\Desktop\.net\agent\.service
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'Autologon': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.autologon'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] AutoLogonSettingsFilePath: C:\Users\Mohd Shahid\Desktop\.net\agent\.autologon
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'Options': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.options'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] RuntimeOptionsFilePath: C:\Users\Mohd Shahid\Desktop\.net\agent\.options
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:19Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:19Z INFO HostContext] Well known config file 'SetupInfo': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.setup_info'
+[2024-10-23 04:17:19Z INFO ConfigurationStore] SetupInfoFilePath: C:\Users\Mohd Shahid\Desktop\.net\agent\.setup_info
+[2024-10-23 04:17:19Z INFO ConfigurationStore] IsServiceConfigured()
+[2024-10-23 04:17:19Z INFO ConfigurationStore] IsServiceConfigured: False
+[2024-10-23 04:17:19Z INFO ConfigurationStore] IsAutoLogonConfigured: False
+[2024-10-23 04:17:19Z INFO ConfigurationManager] AutoLogon was not configured on the agent.
+[2024-10-23 04:17:19Z INFO Terminal] WRITE LINE: Removing agent from the server
+[2024-10-23 04:17:19Z INFO ConfigurationStore] IsConfigured()
+[2024-10-23 04:17:19Z INFO ConfigurationStore] IsConfigured: True
+[2024-10-23 04:17:19Z INFO ConfigurationStore] HasCredentials()
+[2024-10-23 04:17:19Z INFO ConfigurationStore] stored True
+[2024-10-23 04:17:19Z INFO ConfigurationStore] Read setting file: 171 chars
+[2024-10-23 04:17:19Z INFO ConfigurationManager] GetCredentialProvider
+[2024-10-23 04:17:19Z INFO CommandSettings] Arg 'auth': ''
+[2024-10-23 04:17:19Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-10-23 04:17:19Z INFO PromptManager] ReadValue
+[2024-10-23 04:17:19Z INFO Terminal] WRITE: Enter authentication type (press enter for PAT) > 
+[2024-10-23 04:17:19Z INFO Terminal] READ LINE
+[2024-10-23 04:17:22Z INFO Terminal] Read value: 'y'
+[2024-10-23 04:17:22Z INFO PromptManager] Invalid value.
+[2024-10-23 04:17:22Z INFO Terminal] WRITE LINE: Enter a valid value for authentication type.
+[2024-10-23 04:17:22Z INFO Terminal] WRITE: Enter authentication type (press enter for PAT) > 
+[2024-10-23 04:17:22Z INFO Terminal] READ LINE
+[2024-10-23 04:17:26Z INFO Terminal] Read value: ''
+[2024-10-23 04:17:26Z INFO PromptManager] Falling back to the default: 'PAT'
+[2024-10-23 04:17:26Z INFO ConfigurationManager] Creating credential for auth: PAT
+[2024-10-23 04:17:26Z INFO CredentialManager] GetCredentialProvider
+[2024-10-23 04:17:26Z INFO CredentialManager] Creating type PAT
+[2024-10-23 04:17:26Z INFO CredentialManager] Creating credential type: PAT
+[2024-10-23 04:17:26Z INFO PersonalAccessToken] EnsureCredential
+[2024-10-23 04:17:26Z INFO CommandSettings] Arg 'token': ''
+[2024-10-23 04:17:26Z INFO CommandSettings] Flag 'unattended': 'False'
+[2024-10-23 04:17:26Z INFO PromptManager] ReadValue
+[2024-10-23 04:17:26Z INFO Terminal] WRITE: Enter personal access token > 
+[2024-10-23 04:17:26Z INFO Terminal] READ SECRET
+[2024-10-23 04:17:51Z INFO HostContext] Setting up value for origin: Terminal.ReadSecret
+[2024-10-23 04:17:52Z INFO Terminal] Read value: '***'
+[2024-10-23 04:17:52Z INFO ConfigurationManager] cred retrieved
+[2024-10-23 04:17:52Z INFO ConfigurationManager] Agent configured for deploymentGroup : False
+[2024-10-23 04:17:52Z INFO ExtensionManager] Getting extensions for interface: 'Microsoft.VisualStudio.Services.Agent.Listener.Configuration.IConfigurationProvider'
+[2024-10-23 04:17:52Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.BuildReleasesAgentConfigProvider, Agent.Listener
+[2024-10-23 04:17:52Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.DeploymentGroupAgentConfigProvider, Agent.Listener
+[2024-10-23 04:17:52Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.SharedDeploymentAgentConfigProvider, Agent.Listener
+[2024-10-23 04:17:52Z INFO ExtensionManager] Creating instance: Microsoft.VisualStudio.Services.Agent.Listener.Configuration.EnvironmentVMResourceConfigProvider, Agent.Listener
+[2024-10-23 04:17:52Z INFO PersonalAccessToken] GetVssCredentials
+[2024-10-23 04:17:52Z INFO PersonalAccessToken] token retrieved: 52 chars
+[2024-10-23 04:17:52Z INFO PersonalAccessToken] cred created
+[2024-10-23 04:17:52Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2024-10-23 04:17:53Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2024-10-23 04:17:53Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2024-10-23 04:17:53Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2024-10-23 04:17:53Z INFO PersonalAccessToken] GetVssCredentials
+[2024-10-23 04:17:53Z INFO PersonalAccessToken] token retrieved: 52 chars
+[2024-10-23 04:17:53Z INFO PersonalAccessToken] cred created
+[2024-10-23 04:17:53Z INFO Terminal] WRITE LINE: Connecting to server ...
+[2024-10-23 04:17:53Z INFO AgentServer] Establish connection with 100 seconds timeout.
+[2024-10-23 04:17:53Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2024-10-23 04:17:54Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2024-10-23 04:17:54Z INFO AgentServer] Establish connection with 60 seconds timeout.
+[2024-10-23 04:17:54Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2024-10-23 04:17:54Z INFO AgentServer] Establish connection with 60 seconds timeout.
+[2024-10-23 04:17:54Z INFO VisualStudioServices] Starting operation Location.GetConnectionData
+[2024-10-23 04:17:55Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2024-10-23 04:17:55Z INFO VisualStudioServices] Finished operation Location.GetConnectionData
+[2024-10-23 04:17:56Z INFO Terminal] WRITE LINE: Succeeded: Removing agent from the server
+[2024-10-23 04:17:56Z INFO Terminal] WRITE LINE: Removing .credentials
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:56Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.credentials_rsaparams'
+[2024-10-23 04:17:56Z INFO RSAEncryptedFileKeyManager] Deleting RSA key parameters file C:\Users\Mohd Shahid\Desktop\.net\agent\.credentials_rsaparams
+[2024-10-23 04:17:56Z INFO Terminal] WRITE LINE: Succeeded: Removing .credentials
+[2024-10-23 04:17:56Z INFO Terminal] WRITE LINE: Removing .agent
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:56Z INFO HostContext] Well known config file 'ProxyCredentials': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.proxycredentials'
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:56Z INFO HostContext] Well known config file 'ProxyBypass': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.proxybypass'
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:56Z INFO HostContext] Well known config file 'Proxy': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.proxy'
+[2024-10-23 04:17:56Z INFO VstsAgentWebProxy] Delete .proxy file: C:\Users\Mohd Shahid\Desktop\.net\agent\.proxy
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Bin': 'C:\Users\Mohd Shahid\Desktop\.net\agent\bin'
+[2024-10-23 04:17:56Z INFO HostContext] Well known directory 'Root': 'C:\Users\Mohd Shahid\Desktop\.net\agent'
+[2024-10-23 04:17:56Z INFO HostContext] Well known config file 'Certificates': 'C:\Users\Mohd Shahid\Desktop\.net\agent\.certificates'
+[2024-10-23 04:17:56Z INFO Terminal] WRITE LINE: Succeeded: Removing .agent
